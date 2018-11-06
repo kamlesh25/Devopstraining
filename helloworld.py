@@ -13,6 +13,7 @@ def fobonacce_seq(n):
             b = c
             print(b,end = " ")
 
+print(("Hello my dear friend")
 //Hey we are adding two number
 
 fobonacce_seq(20)
