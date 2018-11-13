@@ -16,6 +16,7 @@ def fobonacce_seq(n):
 print(("Hello my dear friend")
 //Hey we are adding two number
 
+print("Addede for cloning school")
 fobonacce_seq(20)
 
 merababa
